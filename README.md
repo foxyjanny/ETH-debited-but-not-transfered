@@ -1,0 +1,2 @@
+# transaction-not-executed-but-ETH-debited
+I tried to send 46ETH to my poloniex account . I left the gas fee default (in the middle of scale). After few minutes I got a disclaimer saying that the transaction could not be executed due to insufficient gas. The problem is that the whole balance was debited from my mist wallet. So now I have zero (yes 46ETH was my whole balance) in my wallet and also received no funds on poloniex. 
